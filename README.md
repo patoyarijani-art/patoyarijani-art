@@ -1,35 +1,19 @@
-Hi there 👋, I'm Md Sajjatul Islam Jani
+Hi there 👋 I'm Sajjatul Islam Jani
 
-💻 Passionate about Web Development & Creative Design
-🚀 Learning and building modern websites and digital experiences
-🌱 Currently improving my skills in HTML, CSS, JavaScript & React
-🎯 Interested in Frontend Development, UI/UX Design & Business Websites
+🚀 Passionate Developer from Bangladesh
+💻 Web Developer | UI Designer | Tech Lover
+⚡ Building clean, modern & high-converting websites
+🌱 Always learning new technologies
 
-🔥 About Me
-
-- 🌍 From Bangladesh
-- 📚 Always learning new technologies
-- ⚡ Love creating high-converting and modern website designs
-- 🎨 Focused on clean UI and user-friendly experiences
+✨ “Code. Create. Inspire.”
 
 🛠️ Skills
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Responsive Web Design
-- Git & GitHub
+HTML • CSS • JavaScript • React • Tailwind • Git • GitHub
 
-📈 Goals
+🌐 Connect With Me
 
-- Become a professional Full Stack Developer
-- Build impactful digital products
-- Work on creative and real-world projects
-
-📫 Connect With Me
-
-- GitHub: https://github.com/MD Sajjat
-- Email: Patoyarijani@gmail.com
+📧 Patoyarijani@gmail.com
+🔗 LinkedIn | Portfolio | Facebook
 
 ⭐ Thanks for visiting my profile!
