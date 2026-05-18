@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there 👋, I'm Md Sajjatul Islam Jani
 
-<!--
-**patoyarijani-art/patoyarijani-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about Web Development & Creative Design
+🚀 Learning and building modern websites and digital experiences
+🌱 Currently improving my skills in HTML, CSS, JavaScript & React
+🎯 Interested in Frontend Development, UI/UX Design & Business Websites
 
-Here are some ideas to get you started:
+🔥 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 From Bangladesh
+- 📚 Always learning new technologies
+- ⚡ Love creating high-converting and modern website designs
+- 🎨 Focused on clean UI and user-friendly experiences
+
+🛠️ Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Responsive Web Design
+- Git & GitHub
+
+📈 Goals
+
+- Become a professional Full Stack Developer
+- Build impactful digital products
+- Work on creative and real-world projects
+
+📫 Connect With Me
+
+- GitHub: https://github.com/MD Sajjat
+- Email: Patoyarijani@gmail.com
+
+⭐ Thanks for visiting my profile!
