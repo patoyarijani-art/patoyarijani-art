@@ -22,9 +22,9 @@
 ## 🧑‍💻 | About Me
 
 ```yaml
-name: "Your Name"
-located_in: "Dhaka, Bangladesh 🇧🇩"
-current_job: "Software Developer"
+name: "Md Sajjatul Islam joni"
+located_in: "mirpur2 Dhaka 1216, Bangladesh 🇧🇩"
+current_job: "Website Developer"
 education:
   - "B.Sc in Computer Science & Engineering"
 fields_of_interest:
