@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 আমার সম্পর্কে | About Me
+## 🧑‍💻 | About Me
 
 ```yaml
 name: "Your Name"
